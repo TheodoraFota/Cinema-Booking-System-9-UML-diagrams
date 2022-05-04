@@ -1,0 +1,10 @@
+insert into movies (m_id, title, director, duration, actors, type) values (1, 'Highlander II: The Quickening', 'Frederick Waddilow', 221, 'Vidovic Wodeland', 'Action|Sci-Fi');
+insert into movies (m_id, title, director, duration, actors, type) values (2, 'Union, The', 'Elwyn Halstead', 220, 'Weider Carrane', 'Documentary');
+insert into movies (m_id, title, director, duration, actors, type) values (3, 'Gloria', 'Hettie Basson', 118, 'Felicia McGinty', 'Drama|Thriller');
+insert into movies (m_id, title, director, duration, actors, type) values (4, 'Cell 211 (Celda 211)', 'Andrea Endon', 190, 'Martynne Pillman', 'Action|Drama');
+insert into movies (m_id, title, director, duration, actors, type) values (5, 'Crude', 'Jeralee Blenkharn', 73, 'Miriam Counihan', 'Documentary');
+insert into movies (m_id, title, director, duration, actors, type) values (6, 'Female Vampire (Les avaleuses) (Erotic Kill)', 'Ruthanne Fildery', 94, 'Corenda Ewbanks', 'Horror');
+insert into movies (m_id, title, director, duration, actors, type) values (7, 'Fist of the North Star', 'Zia O''Loughlin', 92, 'Tim Birckmann', 'Action|Thriller');
+insert into movies (m_id, title, director, duration, actors, type) values (8, '90 Minutes (90 minutter)', 'Gale Umfrey', 71, 'Sisile Tattoo', 'Drama');
+insert into movies (m_id, title, director, duration, actors, type) values (9, 'New Waterford Girl', 'Neala Haill', 103, 'Bette-ann Allwell', 'Comedy');
+insert into movies (m_id, title, director, duration, actors, type) values (10, 'Dark City', 'Sam Devey', 80, 'Keely Miners', 'Crime|Drama|Film-Noir|Mystery');
